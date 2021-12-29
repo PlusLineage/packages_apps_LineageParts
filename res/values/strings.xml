@@ -684,4 +684,5 @@
 
     <!-- Content description of preview pager in colors preview -->
     <string name="colors_viewpager_content_description">Color preview</string>
+    
 </resources>

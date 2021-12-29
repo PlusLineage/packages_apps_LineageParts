@@ -23,4 +23,8 @@
     <color name="trust_status_good">#36B37E</color>
     <color name="trust_status_poor">#FFAB00</color>
     <color name="trust_status_bad">#FF5630</color>
+
+	<color name="google_grey700">#5f6368</color>
+    <color name="edit_background_base">@color/google_grey700</color>
+    <color name="option_border_default">@color/edit_background_base</color>
 </resources>
